@@ -1,8 +1,8 @@
-# 🏪 POS Multisucursal Moderno
+# POS Multisucursal Moderno
 
 Sistema de Punto de Venta (POS) diseñado para negocios con múltiples sucursales, ofreciendo control centralizado, escalabilidad y una experiencia de usuario moderna.
 
-## 🚀 Características principales
+## Características principales
 - **Gestión multisucursal**: administración de inventarios, ventas y usuarios en diferentes ubicaciones desde un solo panel.
 - **Interfaz moderna**: diseño responsivo y amigable para web y móvil.
 - **Reportes en tiempo real**: estadísticas de ventas, flujo de caja y desempeño por sucursal.
@@ -10,7 +10,7 @@ Sistema de Punto de Venta (POS) diseñado para negocios con múltiples sucursale
 - **Integración con e-commerce**: sincronización de productos y ventas en línea.
 - **Base de datos robusta**: PostgreSQL/MySQL para garantizar estabilidad y escalabilidad.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 Este proyecto combina múltiples lenguajes y frameworks para lograr flexibilidad y potencia:
 
 - **Frontend**:  
@@ -25,7 +25,7 @@ Este proyecto combina múltiples lenguajes y frameworks para lograr flexibilidad
 
 - **Otros**: 0.1%
 
-## 📦 Instalación
+## Instalación
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/isaireyespena/pos-multisucursal.git
