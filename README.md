@@ -228,7 +228,7 @@ El proyecto fue desarrollado para practicar:
 # 📂 Estructura del Proyecto
 
 ```bash
-pos-multisucursal/
+POS_MODERNO/
 │
 ├── frontend/
 ├── backend/
@@ -250,7 +250,7 @@ pos-multisucursal/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isaireyespena/pos-multisucursal.git
+git clone https://github.com/isairey/POS_MODERNO.git
 ```
 
 ---
