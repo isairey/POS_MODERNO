@@ -56,47 +56,8 @@ El proyecto fue desarrollado para practicar:
 - Reportes dinámicos
 - Desarrollo escalable
 
----
 
-# 📸 Preview
 
-## 🏠 Dashboard Principal
-
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1556740749-887f6717d7e4?q=80&w=1600&auto=format&fit=crop" width="900"/>
-
-</div>
-
----
-
-## 💳 Sistema POS
-
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1556742393-d75f468bfcb0?q=80&w=1600&auto=format&fit=crop" width="900"/>
-
-</div>
-
----
-
-## 📦 Gestión de Inventario
-
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1600&auto=format&fit=crop" width="900"/>
-
-</div>
-
----
-
-## 📈 Reportes y Estadísticas
-
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1600&auto=format&fit=crop" width="900"/>
-
-</div>
 
 ---
 
